@@ -1,0 +1,11 @@
+input{border:0;
+    background-color:#CA5D87;
+    color:#fff;
+    border-radius:10px;
+    cursor:pointer;}
+  
+  input:hover{
+    color:#CA5D87;
+    background-color:#fff;
+    border:2px #CA5D87 solid;
+  }

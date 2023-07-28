@@ -1,0 +1,40 @@
+/* 設定了內容寬度的上限 */
+.inner {
+    max-width: 900px;
+    margin: 0 auto;  /* 左右置中 */
+}
+#html,#rwd{
+    max-width: 900px;
+    margin: 0 auto; /*  左右置中 */ 
+}
+#abc{
+    background-color: #ffffff;
+}
+/* #CSS調整了背景色 */
+#css{
+    background: #F7F1EB;
+}
+
+
+
+
+/* 頁尾設定 */
+footer{
+    font-size:14px;
+	font-weight: 200;
+    line-height: 1em;
+	padding: 20px;
+    margin: 0 auto;
+}
+
+/* 回到本頁開頭 */
+.pagetop {
+    text-align: right;
+    margin: 1em;
+}
+/* 著作權資訊 */
+.copyright {
+    border-top: solid 5px #CA5D87;
+    text-align: center;
+	padding-top: 20px;
+}
